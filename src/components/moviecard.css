@@ -1,0 +1,30 @@
+.MovieCard {
+  /* background-color: #0d53df; */
+  color: gray;
+  width: 200px;
+  padding: 35px;
+  margin: 20px;
+  border: 1px solid rgb(70, 69, 69);
+  border-radius: 55px;
+  box-shadow: 5px 10px rgb(70, 69, 69);
+}
+
+.MovieCardBody{
+text-align: justify;
+}
+
+.MovieCardDetails p{
+font-size: 12px;
+}
+
+
+.btn{
+border: 1px solid black;
+padding: 15px;
+border-radius: 5px;
+cursor: pointer;
+text-decoration: none;
+color: white;
+background-color: rgb(70, 69, 69);
+
+}  
